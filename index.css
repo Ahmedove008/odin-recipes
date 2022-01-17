@@ -1,0 +1,14 @@
+body{
+    background-color: burlywood;
+}
+
+h1{
+    text-align: center;
+    background-color: blueviolet;
+
+}
+
+.bollen ,.Home ,.basic{
+    padding: 8px;
+    text-align: center;
+}
