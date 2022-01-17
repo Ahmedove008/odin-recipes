@@ -1,14 +1,26 @@
 body{
-    background-color: burlywood;
+    background-color: darkorange
+    
 }
 
 h1{
     text-align: center;
     background-color: blueviolet;
+    font-weight: bold;
+    border-radius: 8px;
 
 }
 
 .bollen ,.Home ,.basic{
-    padding: 8px;
+    padding: 8px;px;
     text-align: center;
+    margin-top: 8px;
+    background-color: blueviolet;
+    border-radius: 8px;
+
 }
+
+a{
+    color: #000000;
+}
+
