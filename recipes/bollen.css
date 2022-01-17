@@ -1,10 +1,10 @@
 body{
     background-color: burlywood;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1{
     background-color: darkmagenta;
-    font-family: 'Times New Roman', Times, serif;
     text-align: center;
     font-weight: bold;
     border-radius: 8px;
@@ -19,9 +19,13 @@ img{
 h2{
     background-color:darkmagenta ;
     border-radius: 8px;
+    text-align: center;
+    font-weight: bold;
 }
 
 h3{
     background-color: darkmagenta;
     border-radius: 8px;
+    text-align: center;
+    font-weight: bold;
 }
